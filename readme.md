@@ -3,6 +3,7 @@
 NoiceBot es un bot de Discord multipropósito con sistema de experiencia, moderación, sorteos y comandos utilitarios. Este repositorio está pensado como una **base sólida** para entusiastas que quieran crear y extender su propio bot de Discord, modificando y añadiendo funcionalidades según sus necesidades.
 
 > ⚠️ Este repositorio es una base pública. El desarrollo activo de NoiceBot continúa en un proyecto separado.
+> Si hay algun problema o duda, puedes escribirme a mi discord: beelzegor
 
 ---
 
